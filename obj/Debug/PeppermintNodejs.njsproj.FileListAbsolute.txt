@@ -1,0 +1,2 @@
+C:\Users\joeys\documents\visual studio 2015\Projects\PeppermintNodejs\PeppermintNodejs\obj\Debug\PeppermintNodejs.njsprojResolveAssemblyReference.cache
+C:\Users\joeys\documents\visual studio 2015\Projects\PeppermintNodejs\PeppermintNodejs\bin\Microsoft.NodejsTools.WebRole.dll
